@@ -35,6 +35,7 @@ group :development, :test do
   gem 'byebug', platform: :mri
   gem 'sqlite3'
   gem 'spring'
+  gem 'guard'
 end
 
 group :test do
